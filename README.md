@@ -92,4 +92,6 @@ Github allows you to embed GIFs in your README, **but** the maximum size is 10MB
 
 To embed a GIF in your README, simply drag and drop the GIF into the README in edit mode. Github will automatically upload the GIF and embed it in the README.
 
+![gif_demo](https://github.com/jacobmarks/ultimate-project-readme/assets/12500356/e36b1273-460a-4852-946f-ac46f79f2cf7)
+
 **Note:** You technically *can* use the markdown syntax to embed a GIF, but then the file will add to the size of your repository. If you drag and drop the GIF, it will be uploaded to Github's servers and will not add to the size of your repository.
