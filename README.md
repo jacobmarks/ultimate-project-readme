@@ -95,3 +95,11 @@ To embed a GIF in your README, simply drag and drop the GIF into the README in e
 ![gif_demo](https://github.com/jacobmarks/ultimate-project-readme/assets/12500356/e36b1273-460a-4852-946f-ac46f79f2cf7)
 
 **Note:** You technically *can* use the markdown syntax to embed a GIF, but then the file will add to the size of your repository. If you drag and drop the GIF, it will be uploaded to Github's servers and will not add to the size of your repository.
+
+### Encoding GIFs as Images
+
+when you embed a GIF with the `.gif` extension in your README, you will need to press play to see the animation. If you want the GIF to animate automatically, you can encode it as an image with the `.png` extension. To do this, simply change the extension of the GIF from `.gif` to `.png`. This will cause the GIF to animate automatically!
+
+Here's an example from the amazing [Tuana Çelik](https://github.com/TuanaCelik)!
+
+![gif_demo](https://user-images.githubusercontent.com/15802862/220481971-ce7feeef-d5a3-4916-b8c3-feaf094e489f.png)
