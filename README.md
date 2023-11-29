@@ -130,6 +130,85 @@ Badges are a great way to add some color and information to your README. Here ar
 - [Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk)
 </details>
 
+### Github Project Badges
+
+Github has a number of badges that you can add to your README.
+
+Here are some of the most popular:
+
+#### Build Status
+
+You can add a badge to your README that shows the status of your build. This is a great way to show the status of your CI/CD pipeline.
+
+Build: when you push to your repository, your CI/CD pipeline will run. If the build is successful, the badge will show a green checkmark. If the build fails, the badge will show a red X.
+
+[![Build](https://github.com/voxel51/fiftyone/workflows/Build/badge.svg?branch=develop&event=push)](https://github.com/voxel51/fiftyone/actions?query=workflow%3ABuild)
+
+
+#### Code Coverage
+
+You can add a badge to your README that shows the code coverage of your tests. This is a great way to show the quality of your tests.
+
+Code Coverage: when you push to your repository, your CI/CD pipeline will run your tests. If the code coverage is above a certain threshold, the badge will show a green checkmark. If the code coverage is below a certain threshold, the badge will show a red X.
+
+[![codecov](https://codecov.io/gh/voxel51/fiftyone/branch/develop/graph/badge.svg?token=ZQZQZQZQZQ)](https://codecov.io/gh/voxel51/fiftyone)
+
+#### Downloads
+
+You can add a badge to your README that shows the number of downloads of your project. This is a great way to show the popularity of your project.
+
+Downloads: this badge will show the number of downloads of your project from PyPI.
+
+[![Downloads](https://static.pepy.tech/badge/fiftyone)](https://pepy.tech/project/fiftyone)
+
+#### Docker Pulls
+
+You can add a badge to your README that shows the number of pulls of your Docker image. This is a great way to show the popularity of your project.
+
+Docker Pulls: this badge will show the number of pulls of your Docker image from Docker Hub.
+
+[![Docker Pulls](https://badgen.net/docker/pulls/voxel51/fiftyone?icon=docker&label=pulls)](https://hub.docker.com/r/voxel51/fiftyone/)
+
+#### License
+
+You can add a badge to your README that shows the license of your project. This is a great way to show the license of your project.
+
+License: this badge will show the license of your project.
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
+#### View Count
+
+You can add a badge to your README that shows the number of views of your project. This is a great way to show the popularity of your project.
+
+View Count: this badge will show the number of views of your project recorded that day.
+
+![ViewCount](https://views.whatilearened.today/views/github/jacobmarks/ultimate-project-readme.svg)
+
+☝️ This is for *this* repo, not the FiftyOne repo!
+
+### Social Badges
+
+You can add badges to your README that link to your social media accounts. This is a great way to show your social media presence.
+
+Here are some of the most popular:
+
+#### Twitter/X
+
+[![Twitter](https://img.shields.io/twitter/follow/Voxel51?style=social)](https://twitter.com/voxel51)
+
+#### LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/voxel51/)
+
+#### Slack
+
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.voxel51.com)
+
+
+
+
+
 ## GIFs
 
 GIFs are a great way to add some life to your README. 
