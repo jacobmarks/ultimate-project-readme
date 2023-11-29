@@ -36,6 +36,18 @@ This is the place to describe how to use your project. What are the steps? What 
 
 This is the place to describe how to contribute to your project. What are the guidelines? What are the expectations? What are the steps? What are the commands? What are the requirements? What are the reccomendations? What are the resources? What is the code of conduct?
 
+You can also include a [Contributing.md](./contributing.md) file in your repository. This will be displayed when someone creates a new issue or pull request.
+
+### Contributors
+
+It is also often helpful to include a listing of contributors in your README. You can do this manually, or you can use a tool like [Contrib.rocks](https://contrib.rocks/).
+
+For instance, here is a list of contributors to the [FiftyOne](https://voxel51.com/fiftyone) project:
+
+<a href="https://github.com/voxel51/fiftyone/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=voxel51/fiftyone" />
+</a>
+
 ## License
 
 This is the place to describe the license for your project. What are the terms? What are the limitations? What are the conditions? What are the permissions? What are the notices? What are the disclaimers? What are the badges?
