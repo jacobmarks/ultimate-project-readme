@@ -6,7 +6,7 @@ This is the Ultimate README Template for creating project READMEs. It is the REA
 
 - [Ultimate README Template](#ultimate-github-project-readme)
   - [Table of Contents](#table-of-contents)
-  - [Description](#description)
+  - [Overview](#overview)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -18,13 +18,65 @@ This is the Ultimate README Template for creating project READMEs. It is the REA
   - [Code Blocks](#code-blocks)
   - [Tables](#tables)
 
-## Description
+## Overview
 
-This is the place to describe your project. What does it do? Why did you make it? What problem does it solve? What did you learn? What challenges did you face? What are the technologies you used? What are the features? What are the future features? What is the status of the project? What is the roadmap? What is the license? What are the contributions guidelines? What are the test instructions? What is the contact information for the developer?
+This is the place to describe your project. You can include any information that you think is relevant. Here are some questions to consider:
+- What does it do? 
+- Why did you make it? 
+- What problem does it solve? 
+- What are the technologies you used? 
+- What are the features? 
+- What are the future features? 
+- What is the roadmap?
+
+### Change Log
+
+If you want to include a change log, this is the place to do it. 
+
+**11/29/2023** - Project Launched
+**12/01/2023** - Added Feature X
+**12/03/2023** - Added Feature Y
+
+
+### Roadmap
+
+If you want to include a roadmap, this is the place to do it.
+
+- [ ] Feature X
+- [ ] Feature Y
+- [ ] Feature Z
+
 
 ## 🚀 Installation
 
 This is the place to describe how to install your project. What are the steps? What are the requirements? What are the dependencies? What is the order of the steps? What are the commands?
+
+**Note:** You may want to include an [Installation.md](./installation.md) file in your repository!
+
+### Requirements
+
+#### Dependencies
+
+Versions, distros, etc.
+
+#### Hardware
+
+What are the hardware requirements? What are the minimum requirements? What are the recommended requirements? What are the ideal requirements?
+
+#### Environment Variables
+
+What are the environment variables? What are the default values? What are the recommended values? What are the required values? What are the optional values?
+
+### Installation Steps
+
+What are the steps? What are the commands? What are the options? What are the features?
+
+### 🚀 Quick Start
+
+If there's a simple way to get started, such as `pip install` or `docker run`, you can include a quick start section. This is a great way to get people to try out your project!
+
+
+
 
 ## Usage
 
@@ -34,7 +86,7 @@ This is the place to describe how to use your project. What are the steps? What 
 
 This is the place to describe how to contribute to your project. What are the guidelines? What are the expectations? What are the steps? What are the commands? What are the requirements? What are the reccomendations? What are the resources? What is the code of conduct?
 
-You can also include a [Contributing.md](./contributing.md) file in your repository. This will be displayed when someone creates a new issue or pull request.
+You can also include a [Contributing.md](./contributing.md) file in your repository!
 
 ### Contributors
 
