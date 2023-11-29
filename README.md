@@ -232,4 +232,118 @@ console.log("Hello World!")
 console.log("Hello World!")
 ```
 
+### Tables
+
+#### Basic Tables
+
+You can add tables to your README using the markdown syntax:
+
+```md
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    |
+| Row 3    | Row 3    | Row 3    |
+```
+
+👇
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    |
+| Row 3    | Row 3    | Row 3    |
+
+
+You can use tools like [Tables Generator](https://www.tablesgenerator.com/markdown_tables) to generate these tables.
+
+You can also use HTML to create tables:
+
+```html
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+  </tr>
+  <tr>
+    <td>Row 1</td>
+    <td>Row 1</td>
+    <td>Row 1</td>
+  </tr>
+  <tr>
+    <td>Row 2</td>
+    <td>Row 2</td>
+    <td>Row 2</td>
+  </tr>
+  <tr>
+    <td>Row 3</td>
+    <td>Row 3</td>
+    <td>Row 3</td>
+  </tr>
+
+</table>
+
+```
+
+👇
+
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+  </tr>
+  <tr>
+    <td>Row 1</td>
+    <td>Row 1</td>
+    <td>Row 1</td>
+  </tr>
+  <tr>
+    <td>Row 2</td>
+    <td>Row 2</td>
+    <td>Row 2</td>
+  </tr>
+  <tr>
+    <td>Row 3</td>
+    <td>Row 3</td>
+    <td>Row 3</td>
+  </tr>
+</table>
+
+#### Multi-Line Cells
+
+You can add multi-line cells to your tables using the syntax:
+
+```md
+| Header 1 | Header 2 |
+|----------|----------|
+| Line 1<br>Line 2 | Text |
+```
+
+👇
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Line 1<br>Line 2 | Text |
+
+#### Alignment
+
+You can align the text in your tables using the syntax:
+
+```md
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| text         |    text        |          text |
+
+
+```
+
+👇
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| text         |    text        |          text |
+
 
