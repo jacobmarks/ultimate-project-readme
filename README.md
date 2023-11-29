@@ -1,10 +1,10 @@
-# Ultimate README Template
+# Ultimate GitHub Project README
 
 This is the Ultimate README Template for creating project READMEs. It is the Readme of Readmes! If you want to create a README for your project, this is the place to start.
 
 ## Table of Contents
 
-- [Ultimate README Template](#ultimate-readme-template)
+- [Ultimate README Template](#ultimate-github-project-readme)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#installation)
@@ -17,14 +17,13 @@ This is the Ultimate README Template for creating project READMEs. It is the Rea
   - [Links](#links)
   - [Code Blocks](#code-blocks)
   - [Tables](#tables)
-  - [Icons](#images)
-  - [Html](#html)
+  - [Icons](#icons)
 
 ## Description
 
 This is the place to describe your project. What does it do? Why did you make it? What problem does it solve? What did you learn? What challenges did you face? What are the technologies you used? What are the features? What are the future features? What is the status of the project? What is the roadmap? What is the license? What are the contributions guidelines? What are the test instructions? What is the contact information for the developer?
 
-## Installation
+## 🚀 Installation
 
 This is the place to describe how to install your project. What are the steps? What are the requirements? What are the dependencies? What is the order of the steps? What are the commands?
 
@@ -115,3 +114,122 @@ when you embed a GIF with the `.gif` extension in your README, you will need to 
 Here's an example from the amazing [Tuana Çelik](https://github.com/TuanaCelik)!
 
 ![gif_demo](https://user-images.githubusercontent.com/15802862/220481971-ce7feeef-d5a3-4916-b8c3-feaf094e489f.png)
+
+## Links
+
+### Basic Links
+
+You can add links to your README using the markdown syntax:
+
+```md
+[Link Text](https://www.example.com)
+```
+
+👉 [Link Text](https://www.example.com)
+
+Alternatively, you can use HTML:
+
+```html
+<a href="https://www.example.com">Link Text</a>
+```
+
+👉 <a href="https://www.example.com">Link Text</a>
+
+### Relative Links
+
+You can also add relative links to your README using the syntax:
+
+```md
+[Relative Link Text](./path/to/file)
+```
+
+For instance, if you want to link to the [Contributing.md](./contributing.md) file in your repository, you can use the syntax:
+
+```md
+[Contributing](./contributing.md)
+```
+
+### Anchor Links
+
+You can add anchor links to your README using the syntax:
+
+```md
+[Anchor Link Text](#anchor-name)
+```
+
+For instance, if you want to link to the [Installation](#installation) section of your README, you can use the syntax:
+
+```md
+[Installation](#installation)
+```
+
+**Note:** If your section header has emojis or special characters, you will need to **include them** in the anchor link. For instance, if you want to link to the [Installation](#🚀-installation) section of your README, you can would use the syntax:
+
+```md
+[Installation](#🚀-installation)
+```
+
+
+### Direct Links to Issues and Pull Requests
+
+You can add direct links to issues and pull requests using the syntax:
+
+```md
+[Issue #num](https://github.com/user/repo/issues/num)
+```
+
+To link to [issue #1](https://github.com/jacobmarks/ultimate-project-readme/issues/1) in this repository, you can use the syntax:
+
+```md
+[Issue #1](https://github.com/jacobmarks/ultimate-project-readme/issues/1)
+```
+
+## Code Blocks
+
+You can add code blocks to your README using the markdown syntax:
+
+<pre>
+```
+print("Hello World!")
+```
+</pre>
+
+👇
+
+```
+print("Hello World!")
+```
+
+### Syntax Highlighting
+
+You can also add syntax highlighting to your code blocks by specifying the language:
+
+#### Python
+
+<pre>
+```python
+print("Hello World!")
+```
+</pre>
+
+👇
+
+```python
+print("Hello World!")
+```
+
+#### JavaScript
+
+<pre>
+```javascript
+console.log("Hello World!")
+```
+</pre>
+
+👇
+
+```javascript
+console.log("Hello World!")
+```
+
+
