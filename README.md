@@ -7,7 +7,7 @@ This is the Ultimate README Template for creating project READMEs. It is the REA
 - [Ultimate README Template](#ultimate-github-project-readme)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
-  - [Installation](#installation)
+  - [Installation](#-installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
