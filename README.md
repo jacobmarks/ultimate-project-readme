@@ -284,10 +284,10 @@ You can also add relative links to your README using the syntax:
 [Relative Link Text](./path/to/file)
 ```
 
-For instance, if you want to link to the [Contributing.md](./contributing.md) file in your repository, you can use the syntax:
+For instance, if you want to link to the [data.csv](./automation/data.csv) file in your repository containing papers, you can use the syntax:
 
 ```md
-[Contributing](./contributing.md)
+[data.csv](./automation/data.csv)
 ```
 
 ### Anchor Links
