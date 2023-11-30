@@ -298,16 +298,16 @@ You can add anchor links to your README using the syntax:
 [Anchor Link Text](#anchor-name)
 ```
 
-For instance, if you want to link to the [Installation](#installation) section of your README, you can use the syntax:
+For instance, if you want to link to the [Usage](#usage) section of your README, you can use the syntax:
 
 ```md
-[Installation](#installation)
+[Usage](#usage)
 ```
 
-**Note:** If your section header has emojis or special characters, you will need to **include them** in the anchor link. For instance, if you want to link to the [Installation](#🚀-installation) section of your README, you can would use the syntax:
+**Note:** If your section header has emojis or special characters, you will need to **remove them** from the anchor link. For instance, if you want to link to the [Installation](#-installation) section of your README, you can would use the syntax:
 
 ```md
-[Installation](#🚀-installation)
+[Installation](#-installation)
 ```
 
 
